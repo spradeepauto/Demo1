@@ -1,6 +1,7 @@
 class Test:
 
-  def test_m1():
-      print("Hi")
-      print("Welcome")
-      print("Learning Python, selenium and devops)
+  def add(a,b):
+     print(a+b)
+     
+  def sub(a,b):
+    print(a*b)
