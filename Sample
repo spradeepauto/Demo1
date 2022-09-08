@@ -4,4 +4,10 @@ class Test:
      print(a+b)
      
   def test_sub(c,d):
-    print(c*d)
+    print(c-d)
+    
+   def test_mul(a,b):
+     print(a*b)
+     
+   def test_div(a,b):
+     print(a/b)
