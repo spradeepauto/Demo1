@@ -1,0 +1,6 @@
+class Test:
+
+  def test_m1():
+      print("Hi")
+      print("Welcome")
+      print("Learning Python, selenium and devops)
