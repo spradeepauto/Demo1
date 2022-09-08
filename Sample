@@ -1,7 +1,7 @@
 class Test:
 
-  def add(a,b):
+  def test_add(a,b):
      print(a+b)
      
-  def sub(a,b):
-    print(a*b)
+  def test_sub(c,d):
+    print(c*d)
